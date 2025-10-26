@@ -37,13 +37,18 @@ Deep learning model for classifying dog breeds using CNNs
 - **Tech:** Python, PyTorch, Scikit-Learn, ResNet-50
 - **Accuracy:** 83%+
 
-### 🛋️ [Flydream Air Lounge System](https://github.com/BenFricker/flydream-air-lounge-system)
-Fully functional airline Lounge Management System
-- **Tech:** HTML, CSS, Javascript
+### 🗂️ [Data Structures & Algorithms](https://github.com/BenFricker/data-structures-algorithms-python)
+Comprehensive implementations of core CS fundamentals: BST, graphs, heaps, pathfinding (Dijkstra's, A*)
+- **Tech:** Python, Graph Theory, Algorithm Design
 
 ### 🧠 [Multi-Layer Perceptron Classifier](https://github.com/BenFricker/Multi-Layer-Perceptron-Classifier)
 Neural network implementation from scratch
 - **Tech:** Python, NumPy, Scikit-Learn
+
+### 🛋️ [Flydream Air Lounge System](https://github.com/BenFricker/flydream-air-lounge-system)
+Fully functional airline Lounge Management System
+- **Tech:** HTML, CSS, Javascript
+
 
 ---
 
