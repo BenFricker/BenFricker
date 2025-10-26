@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ben Fricker
+# Hi, I'm Ben Fricker <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 
 <div align="center">
 
-## **AI & Big Data | Cyber Security | 2nd Year CS Student**
+## **AI & Big Data | Cyber Security | 2nd Year CS Student** 
 
 🎓 Computer Science at **University of Wollongong**  
 🔐 Passionate about AI, Machine Learning & Security  
