@@ -46,7 +46,7 @@ Neural network implementation from scratch
 - **Tech:** Python, NumPy, Scikit-Learn
 
 ### 🛋️ [Flydream Air Lounge System](https://github.com/BenFricker/flydream-air-lounge-system)
-Fully functional airline Lounge Management System
+Full Stack web development prototype for managing airport lounge access
 - **Tech:** HTML, CSS, Javascript
 
 
