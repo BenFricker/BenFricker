@@ -7,6 +7,11 @@
 🔐 Passionate about AI, Machine Learning & Security  
 🚀 Building intelligent systems and secure applications
 
+<div align="center">
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=BenFricker&theme=tokyo-night&hide_border=true)
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -25,15 +30,15 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenFricker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenFricker&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+  
+![](https://github-readme-stats.vercel.app/api?username=BenFricker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenFricker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BenFricker&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 🔥 Featured Projects
