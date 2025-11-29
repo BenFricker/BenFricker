@@ -1,4 +1,4 @@
-# Hi, I'm Ben Fricker <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+# Hey, I'm Ben Fricker <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 
 <div align="center">
 
