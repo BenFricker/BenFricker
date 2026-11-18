@@ -2,11 +2,11 @@
 
 <div align="center">
 
-## **AI & Big Data | Cyber Security | 2nd Year CS Student** 
+## **AI & Big Data | Cyber Security | Final Year CS Student** 
 
 🎓 Computer Science at **University of Wollongong**  
-🔐 Passionate about AI, Machine Learning & Security  
-🚀 Building intelligent systems and secure applications
+🔐 Focused on AI security: making LLM agents safe to use on untrusted data
+🚀 Building secure-by-design AI systems, measured and not just claimed
 
 </div>
 
@@ -54,11 +54,10 @@ Full Stack web development prototype for managing airport lounge access
 
 ## 🎯 Current Focus
 
-- 🔬 Deep Learning for Computer Vision
-- 🛡️ Penetration Testing & Ethical Hacking
-- 📊 Big Data Analytics with Spark
-- 🤖 Building end-to-end ML pipelines
-
+- 🛡️ **AI security:** building **taintline** (in progress), a local-first AI agent that triages security alerts, hardened against prompt injection hidden in log data
+- 🧪 **Adversarial evaluation:** reproducing published attacks on LLM agents and measuring which defences actually hold up
+- 🔐 **Secure-by-design engineering:** least-privilege agent tooling, threat modelling, audit logging, CI with dependency auditing and SBOMs
+- 🔬 **Deep learning:** PyTorch and computer vision
 ---
 
 ## 📊 GitHub Analytics
