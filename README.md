@@ -4,9 +4,9 @@
 
 ## **AI & Big Data | Cyber Security | Final Year CS Student** 
 
-🎓 Computer Science at **University of Wollongong**  
-🔐 Focused on AI security: making LLM agents safe to use on untrusted data
-🚀 Building secure-by-design AI systems, measured and not just claimed
+- 🎓 Computer Science at **University of Wollongong**  
+- 🔐 Focused on AI security: making LLM agents safe to use on untrusted data
+- 🚀 Building secure-by-design AI systems, measured and not just claimed
 
 </div>
 
