@@ -1,9 +1,8 @@
+<div align="center">
 # Hey, I'm Ben Fricker <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 
-<div align="center">
-
 ## **AI & Big Data | Cyber Security | Final Year CS Student** 
----
+
 🎓 Computer Science at **University of Wollongong**<br>
 🔐 Focused on AI security: making LLM agents safe to use on untrusted data<br>
 🚀 Building secure-by-design AI systems, measured and not just claimed
