@@ -1,6 +1,6 @@
-<div align="center">
-  
 # Hey, I'm Ben Fricker <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+
+<div align="center">
 
 ## **AI & Big Data | Cyber Security | Final Year CS Student** 
 
